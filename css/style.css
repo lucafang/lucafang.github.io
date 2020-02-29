@@ -1,4 +1,5 @@
 body {
+    background-color: black;
     background-image: url('/web_images/bg.jpg');
     background-size: 100%;
     background-position: center;
